@@ -2,4 +2,4 @@
 # WebApps-F23-Assignment-3
 Assignment 3 - Basic HTML
 
-<p>Hosted at: <a href="https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-Shabna610/">My Github pages URL</a></p>
+Hosted at: [My Github pages URL]("https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment3-Shabna610/)
